@@ -1,0 +1,44 @@
+++++++总测试结果++++++++++++++++++++++++++++++++++++++++++++++
+用例名称	 测试结果
+          	 
+第1轮测试[0m	 
+test      	 Pass[0m
+test      	 Fail[0m
+test      	 Pass[0m
+          	 
+第2轮测试[0m	 
+test      	 Pass[0m
+test      	 Fail[0m
+test      	 Pass[0m
+          	 
+第3轮测试[0m	 
+test      	 Pass[0m
+test      	 Fail[0m
+test      	 Pass[0m
+          	 
+第4轮测试[0m	 
+test      	 Pass[0m
+test      	 Fail[0m
+test      	 Pass[0m
+          	 
+第5轮测试[0m	 
+test      	 Pass[0m
+test      	 Fail[0m
+test      	 Pass[0m
+++++++Fail的测试结果++++++++++++++++++++++++++++++++++++++++++++++
+用例名称	 测试结果
+          	 
+第1轮测试[0m	 
+test      	 Fail[0m
+          	 
+第2轮测试[0m	 
+test      	 Fail[0m
+          	 
+第3轮测试[0m	 
+test      	 Fail[0m
+          	 
+第4轮测试[0m	 
+test      	 Fail[0m
+          	 
+第5轮测试[0m	 
+test      	 Fail[0m

@@ -1,0 +1,143 @@
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:359]	开始测试了[0m
+第1轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第1轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第2轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第2轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第3轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第3轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第4轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第4轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第5轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第5轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第6轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第6轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第7轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第7轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第8轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第8轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第9轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第9轮测试[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:01	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:01	funcname:  test main	[line:356]	test step Pass[0m
+第10轮测试
+[32m[info]	2019-04-25 10:37:01	funcname:  main	[line:363]	go 第10轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第11轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第11轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第12轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第12轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第13轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第13轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第14轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第14轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第15轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第15轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第16轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第16轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第17轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第17轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第18轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第18轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第19轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第19轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第20轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第20轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第21轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第21轮测试[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:02	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:02	funcname:  test main	[line:356]	test step Pass[0m
+第22轮测试
+[32m[info]	2019-04-25 10:37:02	funcname:  main	[line:363]	go 第22轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第23轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第23轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第24轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第24轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第25轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第25轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第26轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第26轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第27轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第27轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第28轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第28轮测试[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:354]	test step Pass[0m
+[31m[error]	2019-04-25 10:37:03	funcname:  test main	[line:355]	test step Fail[0m
+[32m[info]	2019-04-25 10:37:03	funcname:  test main	[line:356]	test step Pass[0m
+第29轮测试
+[32m[info]	2019-04-25 10:37:03	funcname:  main	[line:363]	go 第29轮测试[0m

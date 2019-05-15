@@ -1,0 +1,17 @@
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:475]	开始测试了[0m
+第1轮测试
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:479]	go 第1轮测试[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  test main	[line:471]	1[0m
+第2轮测试
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:479]	go 第2轮测试[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  test main	[line:471]	1[0m
+第3轮测试
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:479]	go 第3轮测试[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  test main	[line:471]	1[0m
+第4轮测试
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:479]	go 第4轮测试[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  test main	[line:471]	1[0m
+第5轮测试
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:479]	go 第5轮测试[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  test main	[line:471]	1[0m
+[32m[info]	2019-04-25 16:42:49	funcname:  main	[line:485]	结束测试了[0m
